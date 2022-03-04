@@ -1,16 +1,14 @@
 ### Hi there 👋
+i'm Bassel Allam | Software Developer
 
-<!--
-**BaselAllam/baselallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 About Me() {
+  I'm a Developer with 5 years of experience in mobile development and back-end development. I have hands-on experience efficiently coding websites and mobile    applications using modern programming language, Python, Django, Dart, Flutter , PostgreSQL other using graphics tools, etc.
+  also I'm an instructor with more than 3Y experience teaching Mobile Development & Web Development 
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me() {
+  Website => basselallam.net
+  LinkedIn => https://www.linkedin.com/in/bassel-allam-012b65b3/
+  Twitter => https://twitter.com/BaselAllam
+  Email => info@basselallam.net
+};
