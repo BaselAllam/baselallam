@@ -7,7 +7,7 @@ i'm Bassel Allam | Software Developer
 };
 
 📫 How to reach me() {
-  Website => basselallam.net
+  Website => http://basselallam.net
   LinkedIn => https://www.linkedin.com/in/bassel-allam-012b65b3/
   Twitter => https://twitter.com/BaselAllam
   Email => info@basselallam.net
