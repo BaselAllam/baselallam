@@ -7,4 +7,4 @@ i'm Bassel Allam | Software Developer
 };
 
 📫 HowToReachMe
-  Website = 'http://basselallam.net';
+  Website = 'http://basselallam.com';
