@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm Bassel Allam | Software Developer
+i'm Bassel Allam | Technical Lead
 
 💬 AboutMe
   I'm a Software Developer with 5 years of experience in mobile development and back-end development. I have hands-on experience efficiently coding websites and mobile    applications using modern programming language, Python, Django, Dart, Flutter , PostgreSQL other using graphics tools, etc.
